@@ -10,10 +10,10 @@
     <a href="https://leetcode.com/u/kaustubh03-ks/” target="_blank">
       <img src=https://img.shields.io/badge/leetcode-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.linkedin.com/in/abduldotexe/" target="_blank">
+    <a href="https://www.linkedin.com/in/kaustubh-salunkhe-563b03250/" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://instagram.com/abduldotexe" target="_blank">
+    <a href="https://instagram.com/__kaustubh.16__" target="_blank">
       <img src=https://img.shields.io/badge/instagram-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
     <a href="">
